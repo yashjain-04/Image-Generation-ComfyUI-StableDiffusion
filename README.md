@@ -35,7 +35,7 @@ Follow these steps to set up the project on your local machine:
 ## 🖼️ Sample Outputs
 Here are some AI-generated images using this setup:
 
-![Sample Image 1](samples/sample1.png)
+![Sample Image 1](Cozy Coffee Scene/Screenshot 2025-02-09 170249.png)
 ![Sample Image 2](samples/sample2.png)
 
 ## 📌 Features
