@@ -32,11 +32,6 @@ Follow these steps to set up the project on your local machine:
 3. Click the **Generate** button to create an image.
 4. The generated images will be saved in the output directory.
 
-## 🖼️ Sample Outputs
-Here are some AI-generated images using this setup:
-
-![Sample Image 1](Cozy Coffee Scene/Screenshot 2025-02-09 170249.png)
-![Sample Image 2](samples/sample2.png)
 
 ## 📌 Features
 - Text-to-Image generation using Stable Diffusion.
